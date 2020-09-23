@@ -11,6 +11,6 @@ Small android app to track an asset using GPS.
 
 ![](screenshots/Tracker.jpg)
 
-* User's end
+* User's end, red marker indicating asset's location
 
 ![](screenshots/tracking_display.jpg)
