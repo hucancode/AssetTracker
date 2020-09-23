@@ -9,8 +9,8 @@ Small android app to track an asset using GPS.
 ## Run
 * Asset's end
 
-![](screenshots/Tracker.jpg | width=800)
+![](screenshots/Tracker.jpg)
 
 * User's end
 
-![](screenshots/tracking_display.jpg | width=800)
+![](screenshots/tracking_display.jpg)
