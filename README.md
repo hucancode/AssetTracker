@@ -1,4 +1,10 @@
 # AssetTracker
 Small android app to track an asset using GPS.
-AssetTracker module supposed to be installed at asset location.
-AssetTrackingDisplay is the GUI for locating asset location.
+## Installation
+* install AssetTracker module at asset location.
+* then open AssetTrackingDisplay at user's end to locate the assets.
+## Run
+* Asset's end
+![](screenshots/tracker.jpg)
+* User's end
+![](screenshots/tracking_display.jpg)
